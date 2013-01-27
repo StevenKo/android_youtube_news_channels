@@ -40,7 +40,7 @@ import com.youtube.news.channels.entity.YoutubeVideo;
 
 public class ChannelApi {
 
-    final static String         HOST  = "http://106.187.103.131";
+    final static String         HOST  = "http://106.187.103.131:8080";
     public static final String  TAG   = "CHANNEL_API";
     public static final boolean DEBUG = true;
 
